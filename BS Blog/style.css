@@ -1,0 +1,121 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-transform: capitalize;
+}
+
+.box1 {
+    border-radius: 15px;
+    height: auto;
+    background-color: whitesmoke;
+}
+
+.box1 h1 {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    margin-top: 10%;
+    margin-left: 8%;
+    font-weight: 600;
+    margin-right: 8%;
+
+}
+.box1 p{
+    padding-left: 8%;
+    padding-right: 8%;
+    font-size: 18px;
+}
+.continue{
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+    padding-left: 8%;
+}
+.world{
+    width: 94%;
+    margin: auto;
+    border-radius: 15px;
+    background-color: whitesmoke;
+    height: auto;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.3);
+}
+.tumbnail{
+    background-color: grey;
+    border-radius: 0px 15px 15px 0px;
+    text-align: center;
+}
+.worldcont{
+    border-radius: 15px 0px 0px 15px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.worldcont h3,h2,h6,p,.btn2{
+    padding-left: 10%;
+}
+.help{
+    height: auto;
+    padding-bottom: 2%;
+}
+.h3{
+    padding-bottom: 8px;
+    border-bottom: 2px solid grey;
+}
+.house{
+    width: 99%;
+    margin: auto;
+    /* background-color: aqua  ; */
+}
+.subside{
+    width: 99%;
+    /* background-color: aquamarine; */
+    margin: auto;
+    position: sticky;
+    top: 0%;
+}
+.yo
+{
+    text-decoration: underline;
+}
+.sample{
+    border-bottom: 2px solid grey;
+    padding-bottom: 5px;
+}
+.block span{
+    font-size: 18px;
+}   
+.colortag{
+    color: pink;
+}
+.timepass{
+    color: grey;
+    font-size: 12px;
+}
+.house{
+    padding-bottom: 5%;
+}
+.about{
+    background-color: whitesmoke;
+    padding: 5%;
+    margin-top: 8%;
+}
+.recent .wit{
+    border-bottom: 2px solid lightgray;
+    padding-bottom: 5px;
+}
+.box10{
+    background-color: grey;
+    height: 85px;
+}
+.box11{
+    border-bottom: 2px solid lightgray;
+    padding-bottom: 8px;
+}
+.recent h3{
+    margin-top: 40px;
+}
+.foot{
+    height: 150px;
+    background-color: whitesmoke;
+}
+.foot2{
+    height: 150px ;
+}
